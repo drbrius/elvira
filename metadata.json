@@ -1,0 +1,6 @@
+{
+  "name": "Date-Pitch für Elvira",
+  "description": "Ein interaktives, hochkarätiges Bewerbungsdossier im Bachelor- und Business-Pitch-Stil für das exklusive erste Date mit Elvira.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
